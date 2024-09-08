@@ -120,3 +120,8 @@ where age = (
 	order by age desc
 	limit 1
 );
+
+
+# remove user => remove comment => remove like => procedure
+# trigger.
+# Phân quyền user trong sql.
